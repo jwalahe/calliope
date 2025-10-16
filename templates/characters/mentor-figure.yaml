@@ -1,0 +1,16 @@
+name: "Mentor Figure"
+age: 55
+physical: "Weathered features, kind eyes, always carries a signature accessory."
+personality:
+  - wise
+  - patient
+  - blunt
+backstory: "Seasoned expert with a history of mentoring others through transformative journeys."
+role: "mentor"
+relationships:
+  - character: "Romance Protagonist"
+    type: "mentor"
+    notes: "Challenges and supports the protagonist's growth."
+custom:
+  archetype: "mentor-figure"
+  lesson: "Trusting vulnerability leads to authentic love."

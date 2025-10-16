@@ -1,0 +1,16 @@
+name: "Love Interest"
+age: 30
+physical: "Magnetic presence with sharp style and a warm, inviting smile."
+personality:
+  - charismatic
+  - attentive
+  - secretly_vulnerable
+backstory: "Successful in public life but struggles with family expectations and emotional intimacy."
+role: "love-interest"
+relationships:
+  - character: "Romance Protagonist"
+    type: "love interest"
+    notes: "Mutual attraction complicated by external pressure."
+custom:
+  archetype: "romance-love-interest"
+  core_conflict: "Balancing ambition with the desire for genuine connection."

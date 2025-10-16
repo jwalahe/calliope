@@ -1,0 +1,16 @@
+name: "Antagonist"
+age: 35
+physical: "Impeccably dressed with a calculating gaze."
+personality:
+  - ambitious
+  - persuasive
+  - ruthless
+backstory: "Built an empire by making hard choices; believes emotional entanglements are weaknesses."
+role: "antagonist"
+relationships:
+  - character: "Romance Protagonist"
+    type: "rival"
+    notes: "Competes for the same goal or partner."
+custom:
+  archetype: "antagonist"
+  pressure_point: "Uses leverage to force emotional decisions."

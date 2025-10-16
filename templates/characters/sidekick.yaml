@@ -1,0 +1,16 @@
+name: "Sidekick"
+age: 27
+physical: "Expressive eyes, an effortless sense of style, always moving."
+personality:
+  - loyal
+  - witty
+  - impulsive
+backstory: "Knows the protagonist from early days and sticks around through every high and low."
+role: "supporting"
+relationships:
+  - character: "Romance Protagonist"
+    type: "best friend"
+    notes: "Provides comic relief and emotional grounding."
+custom:
+  archetype: "sidekick"
+  signature_trait: "Always has the right playlist for the mood."

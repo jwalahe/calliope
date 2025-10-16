@@ -1,0 +1,16 @@
+name: "Romance Protagonist"
+age: 28
+physical: "Everyday beauty with a distinctive feature (e.g. dimpled smile, freckles)."
+personality:
+  - passionate
+  - resilient
+  - guarded
+backstory: "Grew up believing in love but has been burned before. Currently rebuilding life after a major emotional setback."
+role: "protagonist"
+relationships:
+  - character: "Love Interest"
+    type: "love interest"
+    notes: "Slow-burn attraction, unresolved tension."
+custom:
+  archetype: "romance-protagonist"
+  core_goal: "Find authentic love without losing independence."
